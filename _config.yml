@@ -113,3 +113,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://parallel-mars-068d5.netlify.app'
